@@ -1,0 +1,4 @@
+python3
+import services
+
+services.create_database()
